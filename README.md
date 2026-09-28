@@ -25,5 +25,6 @@
 **Methods:** Regression · Random Forest · KNN · K-Means · Naïve Bayes · Feature Engineering · Forecasting · A/B Testing · RAG · CTEs & Window Functions · Query Optimization, Prompt Engineering, LLM Lang Chain
 
 **Certifications:** IBM Data Science Professional · Stanford Machine Learning Specialization · Google Data Analytics · Azure AZ-900 *(in progress)*
-Connect with me on Linkedin : www.linkedin.com/in/jinalpatel92 & via email directly : jina25bu@gmail.com
+**Connect with me on Linkedin : www.linkedin.com/in/jinalpatel92 & via email directly : jina25bu@gmail.com
+
 📌 **Projects:** see my pinned repositories below, with new work added regularly.
